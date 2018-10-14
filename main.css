@@ -1,0 +1,11 @@
+a {
+  color: #e84610; /* red */
+  font-size: 16px;
+  text-decoration: none;
+  transition-property: width, background-color;
+  transition-duration: 1s;
+}
+
+a:hover  {
+  background-color: #000;
+}
